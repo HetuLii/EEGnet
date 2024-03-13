@@ -1,0 +1,2 @@
+# EEGnet
+EEGnet model reproduction
